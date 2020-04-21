@@ -10,6 +10,8 @@
 
 6つのウェイトから選んで使用できます。
 
+Inter (https://rsms.me/inter) と、Kinto (https://github.com/ookamiinc/kinto) を合成して制作しました。
+
 
 
 ## Usage
