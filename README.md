@@ -4,6 +4,8 @@
 
 ## About
 
+![Karasuma Gothic](https://user-images.githubusercontent.com/44745974/79848565-34db3580-83fc-11ea-9398-2bcc55af8184.png)
+
 ディスプレイと印刷物に最適化された、あたらしいゴシック体フォントです。
 
 6つのウェイトから選んで使用できます。
