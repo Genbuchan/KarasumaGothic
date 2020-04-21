@@ -16,7 +16,7 @@ Inter (https://rsms.me/inter) と、Kinto (https://github.com/ookamiinc/kinto) �
 
 ## Usage
 
-1. release より、**KarasumaGothic 1.00.zip** をダウンロードします。
+1. **[KarasumaGothic 1.00.zip](https://github.com/Genbuchan/KarasumaGothic/releases)** をダウンロードします。
 2. ダウンロードした ZIP ファイルを展開し、中に入っているフォントをインストールします。
 3. お好みのソフトウェアでお使いください。
 
